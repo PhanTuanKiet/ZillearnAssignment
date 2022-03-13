@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zillearn</string>
+    <string name="course_list">Course List</string>
+    <string name="course_desc">Description: %s</string>
+    <string name="course_price">Price: %s</string>
+    <string name="course_categories">Category: %s</string>
+    <string name="course_view">View: %s</string>
+</resources>
