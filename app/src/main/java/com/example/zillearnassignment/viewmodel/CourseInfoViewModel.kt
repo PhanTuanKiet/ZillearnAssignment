@@ -3,7 +3,7 @@ package com.example.zillearnassignment.viewmodel
 import androidx.lifecycle.MutableLiveData
 import com.example.zillearnassignment.base.BaseViewModel
 import com.example.zillearnassignment.model.CourseModel
-import com.example.zillearnassignment.model.response.CourseInfo
+import com.example.zillearnassignment.network.response.CourseInfo
 import com.example.zillearnassignment.viewmodel.repositories.CourseInfoRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import io.reactivex.android.schedulers.AndroidSchedulers

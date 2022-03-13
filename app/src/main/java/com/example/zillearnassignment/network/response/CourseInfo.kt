@@ -1,4 +1,4 @@
-package com.example.zillearnassignment.model.response
+package com.example.zillearnassignment.network.response
 
 data class CourseInfo(
     var courseResponse : CourseDetail,

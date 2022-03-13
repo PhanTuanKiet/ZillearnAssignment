@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import com.example.zillearnassignment.base.BaseAdapter
 import com.example.zillearnassignment.base.BaseViewHolder
 import com.example.zillearnassignment.databinding.CourseListItemBinding
-import com.example.zillearnassignment.model.response.CourseDetail
+import com.example.zillearnassignment.network.response.CourseDetail
 import com.example.zillearnassignment.view.holder.CourseListViewHolder
 
 class CourseAdapter(private val onClickEvent: (course: CourseDetail) -> Unit) : BaseAdapter() {

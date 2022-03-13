@@ -1,9 +1,7 @@
 package com.example.zillearnassignment.network
 
-import com.example.zillearnassignment.model.response.CourseDetail
-import com.example.zillearnassignment.model.response.CourseInfo
-import com.example.zillearnassignment.model.response.CourseInfoResponse
-import com.example.zillearnassignment.model.response.CoursesResponse
+import com.example.zillearnassignment.network.response.CourseInfoResponse
+import com.example.zillearnassignment.network.response.CoursesResponse
 import io.reactivex.Observable
 import retrofit2.http.Body
 import retrofit2.http.GET

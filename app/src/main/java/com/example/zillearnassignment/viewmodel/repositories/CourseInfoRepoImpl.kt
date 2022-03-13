@@ -1,6 +1,6 @@
 package com.example.zillearnassignment.viewmodel.repositories
 
-import com.example.zillearnassignment.model.response.CourseInfoResponse
+import com.example.zillearnassignment.network.response.CourseInfoResponse
 import com.example.zillearnassignment.network.ApiService
 import io.reactivex.Observable
 import javax.inject.Inject

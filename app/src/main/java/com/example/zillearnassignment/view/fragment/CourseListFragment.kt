@@ -10,7 +10,7 @@ import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.zillearnassignment.base.BaseFragment
 import com.example.zillearnassignment.databinding.FragmentCourseListBinding
-import com.example.zillearnassignment.model.response.CourseDetail
+import com.example.zillearnassignment.network.response.CourseDetail
 import com.example.zillearnassignment.view.MainActivity
 import com.example.zillearnassignment.view.adapter.CourseAdapter
 import com.example.zillearnassignment.viewmodel.CourseListViewModel
